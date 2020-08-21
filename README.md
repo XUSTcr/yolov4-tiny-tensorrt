@@ -1,7 +1,7 @@
 # README
 
 ## yolov4-tiny-tensorrt:
-* This project is based on [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) and [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4/tree/master). The project has been tested on TensorRT 5.1.5 CUDA 9.0 CUDNN 7.5, and costs about 6ms to inference an image on GeForce GTX 1050 Ti.
+* This project is based on [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) and [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4/tree/master). The project has been tested on TensorRT 5.1.5 CUDA 9.0 CUDNN 7.5, and costs about 5ms to inference an image on GeForce GTX 1050 Ti.
 
 
 ## Excute:
