@@ -17,7 +17,7 @@
 // 权重下载链接：https://pan.baidu.com/s/1lEXCyDJyjL9B0WR-MKzAeg 提取码：ml0o 
 
 ```
-  git clone https://github.com/tjuskyzhang/yolov4-tiny-tensorrt.git
+  git clone -b trt5 https://github.com/tjuskyzhang/yolov4-tiny-tensorrt.git
 
   cd PyTorch_YOLOv4
 
