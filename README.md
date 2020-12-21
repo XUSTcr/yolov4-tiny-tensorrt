@@ -9,7 +9,7 @@
 (1) Generate yolov4-tiny.wts from pytorch implementation
 
 ```
-  git clone https://github.com/WongKinYiu/PyTorch_YOLOv4.git
+  git clone -b u3_preview https://github.com/WongKinYiu/PyTorch_YOLOv4.git
 ```
 
 // Download [yolov4-tiny.pt](https://drive.google.com/file/d/1aQKcCvTAl1uOWzzHVE9Z8Ixgikc3AuYQ/view?usp=sharing) and copy it into PyTorch_YOLOv4/weights.
